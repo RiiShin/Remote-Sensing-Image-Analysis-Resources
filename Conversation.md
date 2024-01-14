@@ -1,4 +1,4 @@
-# Conversion with ChatGPT on Remote Sensing Image Processing
+# Conversion with ChatGPT on Remote Sensing Image Processing (Images are omitted)
 
 ### Using only remote sensing images
 
